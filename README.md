@@ -17,7 +17,7 @@ If you are interested in booking the flight, go ahead and add it to your cart, u
 
 ## How Does It Looks Like?
 
-![ Home Page ](src\assets\examples\1.png)
+![ Home Page ](src/assets/examples/1.png)
 
 ![ Choose the country you want to recive more data](src\assets\examples\2.png)
 

@@ -1,5 +1,5 @@
 
-# Where - 2 - Fly
+# Where2Fly
 ## Description
 
 >  Following COVID-19, returning to the flight routine can be confusing.

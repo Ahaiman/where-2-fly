@@ -19,9 +19,9 @@ If you are interested in booking the flight, go ahead and add it to your cart, u
 
 ![ Home Page ](src/assets/examples/1.png)
 
-![ Choose the country you want to recive more data](src\assets\examples\2.png)
+![ Choose the country you want to recive more data](src/assets/examples/2.png)
 
-![Clicking on the plus cart icon leads to the 'cart' page where the countries you chose appear and the total expenses cost. You can now submit a request or edit the 'cart' to your wishing](src\assets\examples\3.png)
+![Clicking on the plus cart icon leads to the 'cart' page where the countries you chose appear and the total expenses cost. You can now submit a request or edit the 'cart' to your wishing](src/assets/examples/3.png)
 
 ## Technology Wise
 

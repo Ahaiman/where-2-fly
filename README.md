@@ -9,7 +9,7 @@
 
 ## How Does It Work?
 
-First, choose the country you want to receive information about by clicking the plane icon.
+Choose the country you want to receive information about by clicking the plane icon.
 Countries which do not allow entry, will have the description "No entry at this time", and a lock icon next to it.
 
 Otherwise, click on the details reference for more information about COVID-19 state in the country.

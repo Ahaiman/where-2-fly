@@ -1,0 +1,60 @@
+
+# Where - 2 - Fly
+## Description
+
+>  Following COVID-19, returning to the flight routine can be confusing.
+>  Where is it allowed ? Where is it forbidden ?
+>  In which countries is the morbidity situation high? Which one is not?
+>  **"Where-2-Fly"** provides you the most up-to-date information, as of today.
+
+## How Does It Work?
+
+First, choose the country you want to recive information about, by clicking the plane icon.
+Countries which do not allow entry, will have the description "No entry at this time", and a lock icon next to it.
+
+Otherwise, click on the details referns for more information about COVID-19 state in the country.
+If you are interested in booking the flight, go ahead and add it to your cart, using the plus icon.
+
+## How Does It Looks Like?
+
+![ Home Page ](src\assets\examples\1.png)
+
+![ Choose the country you want to recive more data](src\assets\examples\2.png)
+
+![Clicking on the plus cart icon leads to the 'cart' page where the countries you chose appear and the total expenses cost. You can now submit a request or edit the 'cart' to your wishing](src\assets\examples\3.png)
+
+## Technology Wise
+
+This mini-project was created purely on client-site, using `React`. 
+The components are purely functional components.
+
+> - Usage of React hooks.
+> - React customize hooks.
+> - `react-router` - routing 
+> - `React Context` -  maintaining state between components
+> - ES6 logic
+
+## Running on your local machine
+
+Feel free to get a copy of the project and run it on your local machine.
+Here are some instructions:
+
+### Prerequisites
+Packages :
+* `npm`
+* `react`
+* `react-router-dom`
+* `reactjs-popup`
+
+### Installing
+```
+npm install npm@latest -g
+
+npm install --save react
+
+npm install --save react-dom
+
+npm install --save react-router
+
+npm install --save reactjs-popup
+```

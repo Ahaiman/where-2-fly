@@ -9,10 +9,10 @@
 
 ## How Does It Work?
 
-First, choose the country you want to recive information about, by clicking the plane icon.
+First, choose the country you want to receive information about by clicking the plane icon.
 Countries which do not allow entry, will have the description "No entry at this time", and a lock icon next to it.
 
-Otherwise, click on the details referns for more information about COVID-19 state in the country.
+Otherwise, click on the details reference for more information about COVID-19 state in the country.
 If you are interested in booking the flight, go ahead and add it to your cart, using the plus icon.
 
 ## How Does It Looks Like?
@@ -25,10 +25,10 @@ If you are interested in booking the flight, go ahead and add it to your cart, u
 
 ## Technology Wise
 
-This mini-project was created purely on client-site, using `React`. 
+This mini-project was created on client-site, using `React`. 
 The components are purely functional components.
 
-> - Usage of React hooks.
+> - React hooks.
 > - React customize hooks.
 > - `react-router` - routing 
 > - `React Context` -  maintaining state between components

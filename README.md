@@ -5,7 +5,7 @@
 >  Following COVID-19, returning to the flight routine can be confusing.
 >  Where is it allowed ? Where is it forbidden ?
 >  In which countries is the morbidity situation high? Which one is not?
->  **"Where-2-Fly"** provides you the most up-to-date information, as of today.
+>  **"Where2Fly"** provides you the most up-to-date information, as of today.
 
 ## How Does It Work?
 

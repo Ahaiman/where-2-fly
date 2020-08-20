@@ -34,7 +34,7 @@ The components are purely functional components.
 > - `React Context` -  maintaining state between components
 > - ES6 logic
 
-## Running on your local machine
+## Running On Your Local Machine
 
 Feel free to get a copy of the project and run it on your local machine.
 Here are some instructions:

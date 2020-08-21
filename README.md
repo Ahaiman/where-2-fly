@@ -43,6 +43,7 @@ Here are some instructions:
 Packages :
 * `npm`
 * `react`
+* `react-dom`
 * `react-router-dom`
 * `reactjs-popup`
 

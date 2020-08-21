@@ -10,7 +10,7 @@ function Header(){
     return(
         <header>
             <Link className = 'text-link' to = "/">
-                <h2> Where-2-Fly </h2>
+                <h2> Where2Fly </h2>
             </Link>
 
             <Link className = 'text-link' to = "/cart">

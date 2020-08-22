@@ -32,6 +32,7 @@ The components are purely functional components.
 
 > - React hooks.
 > - React customize hooks.
+> - React PropTypes
 > - `react-router` - routing 
 > - `React Context` -  maintaining state between components
 > - ES6 logic

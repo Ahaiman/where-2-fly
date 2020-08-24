@@ -25,6 +25,11 @@ If you are interested in booking the flight, go ahead and add it to your cart, u
 
 ![Clicking on the plus cart icon leads to the 'cart' page where the countries you chose appear and the total expenses cost. You can now submit a request or edit the 'cart' to your wishing](src/assets/examples/4.png)
 
+
+
+## Deployed App
+Please visit the next link in order to see the app in production deployed over `firebase` : https://where2fly-94025.web.app/
+
 ## Technology Wise
 
 This mini-project was created on client-site, using `React`. 
